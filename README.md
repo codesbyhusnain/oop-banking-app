@@ -41,5 +41,5 @@ git clone https://github.com/codesbyhusnain/oop-banking-app.git
 cd oop-banking-app
 
 # Run the app
-python banking_app.py
+python banking.py
 
